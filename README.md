@@ -2,7 +2,6 @@
 
 Projet de Machine Learning : prédire l'état de santé fœtale (**Normal / Suspect / Pathologique**) à partir de mesures de cardiotocographie (CTG).
 
-**Auteurs :** Zakaria Ouakil, Marwane Boulehia — Génie Digital en Santé (2GDS), UM6SS
 
 📓 **Notebook :** [`fetal_health_classification.ipynb`](fetal_health_classification.ipynb) (s'affiche directement sur GitHub, graphiques inclus)
 
