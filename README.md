@@ -3,7 +3,7 @@
 Projet de Machine Learning : prédire l'état de santé fœtale (**Normal / Suspect / Pathologique**) à partir de mesures de cardiotocographie (CTG).
 
 
-📓 **Notebook :** [`fetal_health_classification.ipynb`](fetal_health_classification.ipynb) (s'affiche directement sur GitHub, graphiques inclus)
+📓 **Notebook :** [`fetal_health_classification.ipynb`](fetal_health_classification.ipynb)
 
 ## Données
 
@@ -54,7 +54,7 @@ L'analyse SHAP/LIME montre que LightGBM s'appuie sur des indicateurs cliniques r
 ## Lancer le projet
 
 ```bash
-git clone https://github.com/USERNAME/fetal-health-ml.git
+git clone https://github.com/zouakil/fetal-health-ml.git
 cd fetal-health-ml
 python -m venv .venv
 source .venv/bin/activate        # Windows : .venv\Scripts\activate
